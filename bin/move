@@ -11,6 +11,3 @@ puts "Where would you like to go?"
 index = gets.strip
 
 
-input_to_index(index)
-index = gets.to_i - 1
-display_board(board)
